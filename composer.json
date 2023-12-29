@@ -1,0 +1,19 @@
+{
+    "name": "tinywan/hello",
+    "description": "开源技术小栈如何构建自己的Composer依赖包",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "tinywan\\hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tinywan",
+            "email": "756684177@qq.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
