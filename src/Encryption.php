@@ -2,7 +2,7 @@
 /**
  * @desc 加密工具类
  * @author Tinywan(ShaoBo Wan)
- * @date 2023/12/30 14:27
+ * @date 2024/1/23 14:27
  */
 declare(strict_types=1);
 
